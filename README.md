@@ -1,2 +1,4 @@
-Git course
-Este curso aborda git
+#Git course
+#Este curso aborda git
+
+#EOF
